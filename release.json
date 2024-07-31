@@ -1,3 +1,5 @@
-{ "download_url":"https://raw.githubusercontent.com/heftekharm/vast-samples/main/app-footballi-production-direct-market-release.apk" , "version_code": , "version_name":"VERSION_NAME
-VERSION_NAME
-VERSION_NAME" }
+{
+    "url":"https://raw.githubusercontent.com/heftekharm/vast-samples/main/com.piccolo.footballi.server_70214_07042.apk",
+    "version_code":70220,
+    "version_name":"15.17.1"
+}
